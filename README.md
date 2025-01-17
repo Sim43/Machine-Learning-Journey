@@ -33,7 +33,6 @@ To run the code in this repository, ensure you have the following installed:
   - `pandas`
   - `scikit-learn`
   - `matplotlib`
-  - `seaborn`
   - Others specified in the individual project requirements.
 
 ## How to Use
