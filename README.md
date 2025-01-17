@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects 📈 
 
-Welcome to the **Machine Learning Projects** repository! This repository contains a collection of machine learning projects showcasing various techniques, algorithms, and applications in the field of ML. Each project is self-contained and designed to provide valuable insights and practical solutions.
+Welcome to the **Machine Learning Projects** repository! This repository contains a collection of machine learning projects showcasing various techniques, algorithms, and applications in the field of AI/ML. Each project is self-contained and designed to provide valuable insights and practical solutions.
 
 ## Repository Structure
 
